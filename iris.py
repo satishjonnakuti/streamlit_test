@@ -17,7 +17,6 @@ my_dataset = pd.read_csv('C:\\Users\\satis\\Desktop\\data science\\data science 
 #     file_details = {"FileName":'C:\\Users\\satis\\Desktop\\data science\\data science with python\iris.csv',"FileType":uploaded_file.type,"FileSize":uploaded_file.size}
 #     st.write(file_details)
 
-#data = my_dataset
 data = my_dataset
 
 #Show Dataset
